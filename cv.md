@@ -19,3 +19,17 @@ Now I live, doing self-learning and working.
 * Kidding not always funny puns
 * **Programming languages and technologies**: Native JS, HTML5, CSS3, SCSS
 * **Tools**:VS Code, Google.com, Intuition
+
+### Code examples
+[GitHub](https://github.com/CmrdCat)
+
+### Experience 
+* [CodeWars](https://www.codewars.com/users/CmrdCat/stats)
+* Projects from GLO Academy intensives [1](https://github.com/CmrdCat/BurgerQuiz), [2](https://github.com/CmrdCat/Delivery-food), [3](https://github.com/CmrdCat/NetClicks)
+
+### Education 
+* Many YouTube channels about WebDev
+* https://learn.javascript.ru/
+
+### English 
+EPAM test told me - _A2_
