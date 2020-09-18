@@ -1,1 +1,2 @@
-# https://CmrdCat.github.io/rsschool-cv/cv
+# https://CmrdCat.github.io/rsschool-cv/
+
