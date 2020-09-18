@@ -1,6 +1,11 @@
 * {
    padding: 0;
    margin: 0;
+   font-family: 'Roboto', sans-serif;
+}
+
+i {
+   color:black;
 }
 
 header {
@@ -16,7 +21,7 @@ header h1 {
 
 header img {
    margin: 0 50px;
-   width: 350px;
+   width: 250px;
    clip-path: circle(50% at 50% 50%)
 }
 
@@ -26,7 +31,8 @@ header h2 {
 
 main {
    display: grid;
-   grid-template-columns: 1fr 1fr;
+   grid-template-columns: repeat(2, 1fr);
+   justify-items: center;
 }
 
 section {
@@ -34,6 +40,10 @@ section {
    display: flex;
    flex-direction: column;
    align-items: center;
+}
+
+section h3 {
+   margin-bottom: 20px;
 }
 
 .contacts ul {
@@ -46,9 +56,8 @@ section {
    margin: 0 10px;
 }
 
-
-
-
-i {
-   color:black
+.english {
+   grid-column: 1 / -1;
 }
+
+
