@@ -15,6 +15,16 @@ header {
    align-items: center;
 }
 
+.text-block {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+.text-block span {
+   display: block;
+}
+
 header h1 {
    text-align: right;
 }
